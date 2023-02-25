@@ -197,6 +197,100 @@
             <td>m3u8 视频在线提取工具</td>
             <td></td>
         </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/motion-canvas/motion-canvas">motion-canvas</a></td>
+            <td width="40%" align="center">
+                <img src="https://s1.ax1x.com/2023/02/25/ppSucUe.png" />
+            </td>
+            <td>一个 canvas 动画库</td>
+            <td>
+                <ul>
+                    <li>使用 generators 函数，结构清晰</li>
+                    <li>一个在线编辑器</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/tutao/tutanota">tutanota</a></td>
+            <td width="40%" align="center">
+                <img src="https://tutanota.com/resources/images/screenshot/encrypted-search-popup-desktop-screen.webp" />
+            </td>
+            <td>可自托管的邮件服务器 & 客户端</td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/ErKeLost/unplugin-imagemin">unplugin-imagemin</a></td>
+            <td width="40%" align="center">
+                <img src="https://user-images.githubusercontent.com/66500121/205471785-7bf4c1b8-42ca-4d3e-a160-4e1d3562f2d2.gif" />
+            </td>
+            <td>基于 vite 的图片压缩插件</td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/asciinema/asciinema">asciinema</a></td>
+            <td width="40%" align="center">
+                <img src="https://camo.githubusercontent.com/09c47a17f473254ee9b27f2b8c5640c73f1a2a08f2a7e83618cb0ceabfef9958/68747470733a2f2f61736369696e656d612e6f72672f612f3333353438302e737667" />
+            </td>
+            <td>录制和回放 terminal 命令过程</td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/civitai/civitai">civitai</a></td>
+            <td width="40%" align="center">
+                <img src="https://s1.ax1x.com/2023/02/25/ppSQIDx.png" />
+            </td>
+            <td>AI 图片模型下载网站</td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/civitai/civitai">civitai</a></td>
+            <td width="40%" align="center">
+                <img src="https://s1.ax1x.com/2023/02/25/ppSQIDx.png" />
+            </td>
+            <td>AI 图片模型下载网站</td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a></td>
+            <td width="40%" align="center">
+                <img src="https://camo.githubusercontent.com/cd5db39ba59752822b7770d5074571fc4db1660af9066dfdb9953ff53ed7195e/687474703a2f2f7777772e776562737461636b2e63632f6173736574732f696d616765732f707265766965772e676966" />
+            </td>
+            <td>导航网站模板</td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/mui/mui-x">mui-x</a></td>
+            <td width="40%" align="center">
+                <img src="https://s1.ax1x.com/2023/02/25/ppS1XnI.png" />
+            </td>
+            <td>付费 Material UI 组件</td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/localsend/localsend">localsend</a></td>
+            <td width="40%" align="center">
+                <img src="https://camo.githubusercontent.com/3cff989c2db27f44ba661cccd3cbe8c72ac7ea16e62ddee2455d6b2deba12a87/68747470733a2f2f6c6f63616c73656e642e6f72672f696d672f73637265656e73686f742d70632e706e67" />
+            </td>
+            <td>类似 AirDrop 的跨平台文件传输工具</td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/retejs/rete">rete</a></td>
+            <td width="40%" align="center">
+                <img src="https://camo.githubusercontent.com/a0cf5fae2712e23678f3d3e7639ebd178ec451f320f709c61f588d70df656d8b/68747470733a2f2f692e696d6775722e636f6d2f727964477536422e706e67" />
+            </td>
+            <td>javascript 可视化编程</td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -240,11 +334,6 @@
             </td>
         </tr>
         <tr>
-            <td><a target="_blank" href="https://github.com/The-Run-Philosophy-Organization/run">run</a></td>
-            <td>润学，移民指南</td>
-            <td></td>
-        </tr>
-        <tr>
             <td><a target="_blank" href="https://github.com/riktar/uncino">uncino</a></td>
             <td>一个可用于浏览器和 NodeJS 的通用钩子方案，可用于库的插件机制</td>
             <td>
@@ -255,8 +344,22 @@
             </td>
         </tr>
         <tr>
+            <td><a target="_blank" href="https://github.com/msfrisbie/spy-extension">spy-extension</a></td>
+            <td>一个浏览器扩展如何窃取能所有信息的示例</td>
+        </tr>
+        <tr>
             <td><a target="_blank" href="https://github.com/phuocng/1loc">1loc</a></td>
             <td>最喜欢的一行 JavaScript 代码</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/developit/mitt">mitt</a></td>
+            <td>200 字节的发布订阅模式实现</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/kettle11/tangle">tangle</a></td>
+            <td>基于 WebAssembly 的多人对战引擎</td>
             <td></td>
         </tr>
     </tbody>
@@ -367,10 +470,60 @@
                 <div><img src="https://img.shields.io/npm/dm/ng-zorro-antd.svg?style=flat-square" /></div>
             </td>
         </tr>
+        <tr>
+            <td>element-ui</td>
+            <td>PC</td>
+            <td>
+                <div><a href="https://github.com/wu-component/web-component-plus">社区实现</a></div>
+                <div><img src="https://img.shields.io/github/stars/wu-component/web-component-plus?style=flat-square" />
+                </div>
+                <div><img src="https://img.shields.io/npm/dm/@wu-component/ui-plus.svg?style=flat-square?style=flat-square" /></div>
+            </td>
+            <td>
+                -
+            </td>
+            <td>
+                <div><a href="https://github.com/vueComponent/ant-design-vue">官方实现</a></div>
+                <div><img src="https://img.shields.io/github/stars/vueComponent/ant-design-vue?style=flat-square" />
+                </div>
+                <div><img src="http://img.shields.io/npm/dm/ant-design-vue.svg?style=flat-square" /></div>
+            </td>
+            <td>
+            -
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table>
+    <thead>
+        <tr>
+            <th>项目</th>
+            <th>图片</th>
+            <th>描述</th>
+            <th>亮点</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" href="https://github.com/shadcn/ui">shadcn</a></td>
+            <td width="40%"><img src="https://github.com/shadcn/ui/raw/main/apps/www/public/og.jpg" /></td>
+            <td>Radix UI & Tailwind CSS</td>
+            <td>
+                <ul>
+                    <li>颜值高</li>
+                </ul>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## AI Projects
+
+### 收集
+
+- [AI-Product-Index](https://github.com/dair-ai/AI-Product-Index)：各种 AI 产品
 
 ### 框架
 
@@ -381,7 +534,68 @@
 - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：stable-diffusion 的前端 UI
 - [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)：stable-diffusion 的 Mac 客户端
 - [novelai-bot](https://github.com/koishijs/novelai-bot)：基于 NovelAI 的画图机器人
+- [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)：stable-diffusion-webui 的 docker 安装方式
+- [https://github.com/fkunn1326/openpose-editor](openpose-editor)：stable-diffusion-webui 插件，直接编辑骨骼
+- [scribble-diffusion](https://github.com/replicate/scribble-diffusion)：基于 stable-diffusion 绘画草图生成图片
+- [Lsmith](https://github.com/ddPn08/Lsmith)：加速生成图片
+
+### ChatGPT
+
+- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：ChatGPT 中文调教指南
 
 ### 语音合成
 
 ### 视频合成
+
+### 开发辅助
+
+- [aicommits](https://github.com/Nutlope/aicommits)：基于 openai 提交时生成 commit message
+- [readpilot](https://github.com/forrestchang/readpilot)：基于 openai 对文章进行分析
+
+## 文档站点工具
+
+<table>
+    <thead>
+        <tr>
+            <th>项目</th>
+            <th>图片</th>
+            <th>描述</th>
+            <th>亮点</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" href="https://github.com/shuding/nextra">nextra</a></td>
+            <td width="40%"><img src="https://s1.ax1x.com/2023/02/25/ppSMGY4.png" /></td>
+            <td>Next.js & MDX</td>
+            <td>
+                <ul>
+                    <li>颜值高</li>
+                    <li>零配置全文搜索</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+## 润
+
+<table>
+    <thead>
+        <tr>
+            <th>项目</th>
+            <th>描述</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" href="https://github.com/The-Run-Philosophy-Organization/run">run</a></td>
+            <td>润学，移民指南</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook">Job-Interview</a></td>
+            <td>程序员海外工作/英文面试手册</td>
+        </tr>
+    </tbody>
+</table>
